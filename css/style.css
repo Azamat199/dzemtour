@@ -1225,7 +1225,7 @@ body.lock {
 }
 .benefits__item-number {
   font-size: 70px;
-  color: #FF8700;
+  color: #5a5a66;
   position: relative;
 }
 .benefits__item-number::after {
@@ -1236,7 +1236,7 @@ body.lock {
   transform: translate(-50%);
   height: 2px;
   width: 28%;
-  background: #FF8700;
+  background: #5a5a66;
   margin: 0 auto;
 }
 .benefits__item-number span {
